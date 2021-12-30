@@ -3,7 +3,7 @@ class config:
     APP_ID = "
 11647892"
     API_HASH = "f7137e0d4218168c48a2d91b290a78d4"
-    DATABASE_URL = "https://git.heroku.com/tpminds.git"
+    DATABASE_URL = "postgres://ajkepdavxsnynx:69958594307eb90c1e163259b444fec1006036b4bae7f8dcd0f1369e4748703e@ec2-34-236-87-247.compute-1.amazonaws.com:5432/d4mcidiaf35kof"
     SUDO_USERS = "879561948" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
