@@ -1,9 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5062196148:AAHuFHAmQE1btLpg3rcCCx_-DM91qCwBhxE"
+    APP_ID = "
+11647892"
+    API_HASH = "f7137e0d4218168c48a2d91b290a78d4"
+    DATABASE_URL = "https://git.heroku.com/tpminds.git"
+    SUDO_USERS = "879561948" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
